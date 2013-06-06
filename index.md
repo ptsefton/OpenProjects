@@ -1,3 +1,7 @@
+---
+layout: default
+title: Start
+---
 # Introduction
 
 # Getting started
